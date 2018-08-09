@@ -1,0 +1,12 @@
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\bin\Debug\CricketGame.dll
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\bin\Debug\CricketGame.pdb
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\bin\Debug\FluentAssertions.dll
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\bin\Debug\System.ValueTuple.dll
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\bin\Debug\FluentAssertions.pdb
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\bin\Debug\FluentAssertions.xml
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\bin\Debug\System.ValueTuple.xml
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\obj\Debug\CricketGame.csproj.CopyComplete
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\obj\Debug\CricketGame.dll
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\obj\Debug\CricketGame.pdb
+C:\Users\rgouthaman\source\repos\cricket\CricketGame\obj\Debug\CricketGame.csprojAssemblyReference.cache
